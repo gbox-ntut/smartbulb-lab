@@ -1,4 +1,4 @@
-# smartbulb-lab
+# Smart Bulb lab
 # IoT Security Lab: Smart Bulb Vulnerability Analysis
 A hands-on laboratory for learning IoT security concepts through a simulated smart bulb device.
 Source from: https://github.com/mitayag/iotsecurity/tree/main
@@ -45,7 +45,6 @@ python app.py
 ```
 http://localhost:8080
 ```
-
 ## 📁 Project Structure
 ```
 smartbulb/
