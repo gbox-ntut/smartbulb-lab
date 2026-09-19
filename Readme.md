@@ -91,13 +91,6 @@ smartbulb/
    - Analyze vulnerabilities
    - Suggest improvements
 
-## 🏆 Grading
-Total Points: 100
-- Basic Testing (20 points)
-- Command Execution (25 points)
-- Attack Implementation (30 points)
-- Analysis & Documentation (25 points)
-
 ## 📋 Requirements Checklist
 - [ ] Python 3.x installed
 - [ ] Flask and Flask-SocketIO installed
